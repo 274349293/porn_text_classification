@@ -1,0 +1,5 @@
+2018-03-16 21:19:07,466 - INFO - webService.py - istext - 194 - 用户上传文本: 测试测试
+2018-03-16 21:19:07,469 - INFO - webService.py - istext - 196 - 分词之后长度: 2
+2018-03-16 21:19:07,481 - INFO - webService.py - getDocSexProba - 107 - 色情分类概率是：0.420047, 模型分类结果：0, 分词结果：测试 测试
+2018-03-16 21:19:07,482 - INFO - webService.py - getParagraphList - 137 - 分段长度为：1
+2018-03-16 21:19:07,488 - INFO - webService.py - getDocSexProba - 107 - 色情分类概率是：0.420047, 模型分类结果：0, 分词结果：测试 测试

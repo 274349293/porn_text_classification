@@ -1,0 +1,5 @@
+2018-02-05 11:59:19,399 - INFO - webService.py - istext - 194 - 用户上传文本: 输入或粘贴要检测的文字.....迷失妓女
+2018-02-05 11:59:19,402 - INFO - webService.py - istext - 196 - 分词之后长度: 7
+2018-02-05 11:59:19,415 - INFO - webService.py - getDocSexProba - 107 - 色情分类概率是：0.758953, 模型分类结果：1, 分词结果：输入 粘贴 检测 文字 ..... 迷失 妓女
+2018-02-05 11:59:19,416 - INFO - webService.py - getParagraphList - 137 - 分段长度为：1
+2018-02-05 11:59:19,422 - INFO - webService.py - getDocSexProba - 107 - 色情分类概率是：0.758953, 模型分类结果：1, 分词结果：输入 粘贴 检测 文字 ..... 迷失 妓女

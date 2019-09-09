@@ -1,0 +1,5 @@
+2018-03-09 13:38:09,177 - INFO - webService.py - istext - 194 - 用户上传文本: 输入或粘贴要检测的文字......
+2018-03-09 13:38:09,180 - INFO - webService.py - istext - 196 - 分词之后长度: 4
+2018-03-09 13:38:09,192 - INFO - webService.py - getDocSexProba - 107 - 色情分类概率是：0.489582, 模型分类结果：0, 分词结果：输入 粘贴 检测 文字
+2018-03-09 13:38:09,193 - INFO - webService.py - getParagraphList - 137 - 分段长度为：1
+2018-03-09 13:38:09,200 - INFO - webService.py - getDocSexProba - 107 - 色情分类概率是：0.489582, 模型分类结果：0, 分词结果：输入 粘贴 检测 文字

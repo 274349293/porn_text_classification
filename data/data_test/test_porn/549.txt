@@ -1,0 +1,10 @@
+
+
+  
+
+
+document.write("<div class=\"cp\"><b><font color=gray>本页地址：</font></b><input class=\"cpinput\" type=\"text\" onclick=\"this.select();setCopy('车上的民工和软蛋老公\\n" + window.location + "', '帖子地址已经复制到剪贴板<br />您可以用快捷键 Ctrl + V 粘贴到 QQ、MSN 里。');\" value=\"" + window.location + "\" />");
+document.write("&nbsp;<button type=\"submit\" class=\"cpbutton\" onclick=\"setCopy('车上的民工和软蛋老公\\n" + window.location + "', '帖子地址已经复制到剪贴板<br />您可以用快捷键 Ctrl + V 粘贴到 QQ、MSN 里。')\"><em>推荐给好友</em></button></div>");
+
+
+上一篇：车上的龌龊故事两则下一篇：骗吃宵夜玩车震

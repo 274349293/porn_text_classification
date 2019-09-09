@@ -1,0 +1,3 @@
+2018-04-10 22:30:37,419 - INFO - webService.py - istext - 194 - 用户上传文本: 靠
+2018-04-10 22:30:37,422 - INFO - webService.py - istext - 196 - 分词之后长度: 0
+2018-04-10 22:30:37,423 - INFO - webService.py - getParagraphList - 137 - 分段长度为：1
